@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Tensorflow",
+    "\\Tensorflow\\tensorflow-getting-started",
+    "\\Tensorflow\\tensorflow-getting-started\\02",
+    "\\Tensorflow\\tensorflow-getting-started\\03",
+    "\\Tensorflow\\tensorflow-getting-started\\03\\demos",
+    "\\Tensorflow\\tensorflow-getting-started\\03\\demos\\demos",
+    "\\Tensorflow\\tensorflow-getting-started\\04",
+    "\\Tensorflow\\tensorflow-getting-started\\04\\demos",
+    "\\Tensorflow\\tensorflow-getting-started\\04\\demos\\demos"
   ],
-  "SelectedNode": "\\Ex_Files_Intro_Analysis_Python",
+  "SelectedNode": "\\PredictVehicleValue.py",
   "PreviewInSolutionExplorer": false
 }
