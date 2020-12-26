@@ -1,6 +1,7 @@
 ﻿# https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172
 # All unique
 # The following method checks whether the given list has duplicate elements. It uses the property of set() which removes duplicate elements from the list
+
 def all_unique(lst):
     return len(lst) == len(set(lst))
 
